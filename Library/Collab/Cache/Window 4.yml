@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Perfab/Enemy/Enemy Idle.prefab
+    - Assets/Perfab/Enemy/Enemy1.prefab
+    - Assets/Perfab/Enemy/EnemyFish.prefab
+    - Assets/Scenes/Menu.unity
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Script/DotEnemy.cs
+    - Assets/Script/Enemy.cs
+    - Assets/Script/EnemyJumper.cs
+    - Assets/Script/EnemyStay.cs
+    - Assets/Script/EnemyStay.cs.meta
+    - 
+    m_Values: 0000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

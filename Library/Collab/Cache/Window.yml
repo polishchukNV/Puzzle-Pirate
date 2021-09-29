@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animation/Menu/LevelControll.anim
+    - Assets/Animation/Menu/LevelControllEnd.anim
+    - Assets/Perfab/Enemy/Left.prefab
+    - Assets/Scenes/Menu.unity
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Script/Cannonball.cs
+    - Assets/Script/Enemy.cs
+    - Assets/Script/EnemyCannon.cs
+    - Assets/Script/EnemyJumper.cs
+    - Assets/Script/Menu.cs
+    - Assets/Script/NewPlayer.cs
+    - Assets/Sounds.meta
+    - Assets/Sounds/Boom.mp3
+    - Assets/Sounds/Boom.mp3.meta
+    - Assets/Sounds/Step 1.mp3
+    - Assets/Sounds/Step 1.mp3.meta
+    - Assets/Sounds/Step.mp3
+    - Assets/Sounds/Step.mp3.meta
+    - Assets/Sounds/shoot.mp3
+    - Assets/Sounds/shoot.mp3.meta
+    - Assets/Sounds/soundscrate-anime-whoosh-02.mp3
+    - Assets/Sounds/soundscrate-anime-whoosh-02.mp3.meta
+    - Assets/Sounds/soundscrate-bloop-01.mp3
+    - Assets/Sounds/soundscrate-bloop-01.mp3.meta
+    - Assets/Sounds/soundscrate-coin-01.mp3
+    - Assets/Sounds/soundscrate-coin-01.mp3.meta
+    - Assets/Sounds/soundscrate-endless.mp3
+    - Assets/Sounds/soundscrate-endless.mp3.meta
+    - Assets/Sounds/soundscrate-on-a-quest.mp3
+    - Assets/Sounds/soundscrate-on-a-quest.mp3.meta
+    - Assets/Sounds/soundscrate-optimistic-turnout-bpm-96.mp3
+    - Assets/Sounds/soundscrate-optimistic-turnout-bpm-96.mp3.meta
+    - Assets/Sounds/soundscrate-plucky-walk.mp3
+    - Assets/Sounds/soundscrate-plucky-walk.mp3.meta
+    - Assets/Sounds/soundscrate-rampant-bpm-130.mp3
+    - Assets/Sounds/soundscrate-rampant-bpm-130.mp3.meta
+    - Assets/Sounds/soundscrate-spysome.mp3
+    - Assets/Sounds/soundscrate-spysome.mp3.meta
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
